@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=CON - I2C from RRIO Old Footprint=70634-POS3 New Footprint=70545-POS3
+Change Component Footprint: Designator=CON - IR1 Old Footprint=70634-POS3 New Footprint=70545-POS3
+Change Component Footprint: Designator=CON - IR2 Old Footprint=70634-POS3 New Footprint=70545-POS3
+Change Component Footprint: Designator=CON - IR3 Old Footprint=70634-POS3 New Footprint=70545-POS3
+Change Component Footprint: Designator=CON - IR4 Old Footprint=70634-POS3 New Footprint=70545-POS3
+Change Component Footprint: Designator=CON - IR5 Old Footprint=70634-POS3 New Footprint=70545-POS3
+Change Component Footprint: Designator=CON - IR6 Old Footprint=70634-POS3 New Footprint=70545-POS3
+Change Component Footprint: Designator=CON - US2 Old Footprint=70634-POS4 New Footprint=70545-POS4
+Change Component Footprint: Designator=CON - US3 Old Footprint=70634-POS4 New Footprint=70545-POS4
+Change Component Footprint: Designator=CON - US4 Old Footprint=70634-POS4 New Footprint=70545-POS4
+Change Component Footprint: Designator=CON - US5 Old Footprint=70634-POS4 New Footprint=70545-POS4
+Change Component Footprint: Designator=CON - US6 Old Footprint=70634-POS4 New Footprint=70545-POS4
+Change Component Footprint: Designator=CON - I2C Output Old Footprint=70634-POS5 New Footprint=70545-POS5
+Added Component: Designator=D1(SMB)
+Added Component: Designator=D2(SMB)
+Added Pin To Net: NetName=NetCON-Ring Light 1_P$2 Pin=D1-1
+Added Pin To Net: NetName=+12 Pin=D1-2
+Added Pin To Net: NetName=NetCON-Ring Light 2_P$2 Pin=D2-1
+Added Pin To Net: NetName=+12 Pin=D2-2
+Added Member To Class: ClassName=Overall Schematic Member=Component D1 D Schottky
+Added Member To Class: ClassName=Overall Schematic Member=Component D2 D Schottky

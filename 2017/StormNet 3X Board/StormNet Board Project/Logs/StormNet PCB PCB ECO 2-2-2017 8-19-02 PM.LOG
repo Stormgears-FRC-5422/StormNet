@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5.4 NEOPIX Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Member From Class: ClassName=Overall Schematic Member=C7
+Change Component Designator: OldDesignator=C3 NewDesignator=C3 - 12V
+Change Component Designator: OldDesignator=C4 NewDesignator=C4 - Neo A
+Change Component Designator: OldDesignator=C5 NewDesignator=C5 - Neo B
+Change Component Designator: OldDesignator=C6 NewDesignator=C6 - Neo C
+Change Component Designator: OldDesignator=C18 NewDesignator=C18 - 9V
+Added Component: Designator=C7 - Neo D(RB7.6-15)
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=C7 - Neo D-1
+Added Pin To Net: NetName=GND Pin=C7 - Neo D-2
+Added Member To Class: ClassName=Overall Schematic Member=Component C7 - Neo D Cap Pol1

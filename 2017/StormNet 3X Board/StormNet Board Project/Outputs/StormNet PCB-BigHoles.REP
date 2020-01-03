@@ -1,0 +1,308 @@
+*************************************************************
+FileName = StormNet PCB-BigHoles.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : StormNet PCB-BigHoles.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : StormNet PCB-BigHoles.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D22
+    D23
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : StormNet PCB-BigHoles.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : StormNet PCB-BigHoles.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : StormNet PCB-BigHoles.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D21
+    D25
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : StormNet PCB-BigHoles.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : StormNet PCB-BigHoles.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : StormNet PCB-BigHoles.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D25
+    D43
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : StormNet PCB-BigHoles.Outline
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : StormNet PCB-BigHoles.GD1
+
+    Adding Layer      : Outline
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D25
+    D44
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : StormNet PCB-BigHoles.GG1
+
+    Adding Layer      : Outline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D25
+    D44
+*************************************************************
+

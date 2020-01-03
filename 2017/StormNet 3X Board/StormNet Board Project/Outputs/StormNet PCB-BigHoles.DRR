@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: StormNet PCB-BigHoles.SWPcbDoc   2/12/2017  9:11:46 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : StormNet PCB-BigHoles.TXT
+EIA File   : StormNet PCB-BigHoles.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        1.016mm (40mil)          Round          256              1543.91 mm (60.78 Inch)
+T2        1.1176mm (44mil)         Round          4                19.68 mm (0.77 Inch)
+T3        1.524mm (60mil)          Round          6                52.81 mm (2.08 Inch)
+T4        1.651mm (65mil)          Round          12               245.11 mm (9.65 Inch)
+T5        3.175mm (125mil)         Round          4                476.97 mm (18.78 Inch)
+T6        3.4036mm (134mil)        Round          44               736.56 mm (29.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            326              3075.04 mm (121.06 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

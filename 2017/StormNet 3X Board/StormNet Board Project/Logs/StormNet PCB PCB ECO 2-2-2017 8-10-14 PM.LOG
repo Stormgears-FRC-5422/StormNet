@@ -1,0 +1,4 @@
+Added Component: Designator=C27(C0805)
+Added Pin To Net: NetName=+5 LI Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Member To Class: ClassName=Overall Schematic Member=Component C27 CAPACITOR, American symbol

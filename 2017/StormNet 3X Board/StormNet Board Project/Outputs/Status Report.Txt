@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [StormNet Board Project.PrjPcb]
+   Generated File[StormNet PCB-BigHoles.TXT]
+   Generated File[StormNet PCB-BigHoles.DRL]
+   Generated File[StormNet PCB-BigHoles.LDP]
+   Generated File[StormNet PCB-BigHoles.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:11:46 PM On 2/12/2017

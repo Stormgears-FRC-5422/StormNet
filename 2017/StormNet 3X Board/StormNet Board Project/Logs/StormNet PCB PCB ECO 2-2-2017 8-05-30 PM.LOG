@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+5 LI Pin=C7-1
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=C7-1

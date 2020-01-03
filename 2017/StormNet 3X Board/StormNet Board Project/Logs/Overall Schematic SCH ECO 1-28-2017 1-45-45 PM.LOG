@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=CON - I2C from RRIO Old Footprint=70545-POS3 New Footprint=70634-POS3
+Change Component Footprint: Designator=CON - IR1 Old Footprint=70545-POS3 New Footprint=70634-POS3
+Change Component Footprint: Designator=CON - IR2 Old Footprint=70545-POS3 New Footprint=70634-POS3
+Change Component Footprint: Designator=CON - IR3 Old Footprint=70545-POS3 New Footprint=70634-POS3
+Change Component Footprint: Designator=CON - IR4 Old Footprint=70545-POS3 New Footprint=70634-POS3
+Change Component Footprint: Designator=CON - IR5 Old Footprint=70545-POS3 New Footprint=70634-POS3
+Change Component Footprint: Designator=CON - IR6 Old Footprint=70545-POS3 New Footprint=70634-POS3
+Change Component Footprint: Designator=CON - US1 Old Footprint=70545-POS4 New Footprint=70634-POS4
+Change Component Footprint: Designator=CON - US2 Old Footprint=70545-POS4 New Footprint=70634-POS4
+Change Component Footprint: Designator=CON - US3 Old Footprint=70545-POS4 New Footprint=70634-POS4
+Change Component Footprint: Designator=CON - US4 Old Footprint=70545-POS4 New Footprint=70634-POS4
+Change Component Footprint: Designator=CON - US5 Old Footprint=70545-POS4 New Footprint=70634-POS4
+Change Component Footprint: Designator=CON - US6 Old Footprint=70545-POS4 New Footprint=70634-POS4
+Change Component Footprint: Designator=CON - I2C Output Old Footprint=70545-POS5 New Footprint=70634-POS5

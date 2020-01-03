@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5.1 NEOPIX Pin=CON - NeoPix Start A-P$1
+Removed Pin From Net: NetName=NEOPIX DATA Pin=CON - NeoPix Start A-P$2
+Removed Pin From Net: NetName=GND Pin=CON - NeoPix Start A-P$3
+Removed Member From Class: ClassName=Overall Schematic Member=CON - NeoPix Start A
+Added Component: Designator=CON-NeoPix A(70545-POS3)
+Added Pin To Net: NetName=+5.1 NEOPIX Pin=CON-NeoPix A-P$1
+Added Pin To Net: NetName=NEOPIX DATA Pin=CON-NeoPix A-P$2
+Added Pin To Net: NetName=GND Pin=CON-NeoPix A-P$3
+Added Member To Class: ClassName=Overall Schematic Member=Component CON-NeoPix A Molex -C-Grid® / SL Series connector   Wire-to-Board 2.54 mm (0.100") pitch header, 3 positions.

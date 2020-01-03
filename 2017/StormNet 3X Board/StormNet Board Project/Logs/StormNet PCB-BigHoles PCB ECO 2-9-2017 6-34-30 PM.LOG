@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5 LI Pin=C8-1
+Removed Pin From Net: NetName=+5 LI Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=+5 LI Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=+5 LI Pin=NeoLI-5-1-VDD
+Removed Pin From Net: NetName=GND Pin=NeoLI-5-3-GND
+Removed Pin From Net: NetName=+5 LI Pin=NeoLI-6-1-VDD
+Removed Pin From Net: NetName=NEOPIX DATA Pin=NeoLI-6-2-DOUT
+Removed Pin From Net: NetName=GND Pin=NeoLI-6-3-GND
+Removed Member From Class: ClassName=Overall Schematic Member=C12
+Removed Member From Class: ClassName=Overall Schematic Member=C13
+Removed Member From Class: ClassName=Overall Schematic Member=NeoLI-5
+Removed Member From Class: ClassName=Overall Schematic Member=NeoLI-6
+Added Pin To Net: NetName=NEOPIX DATA Pin=NeoLI-4-2-DOUT
+Added Member To Class: ClassName=Overall Schematic Member=Component C8 CAPACITOR, American symbol
+Added Member To Class: ClassName=Overall Schematic Member=Component NeoLI-1 WS2812B_5050N

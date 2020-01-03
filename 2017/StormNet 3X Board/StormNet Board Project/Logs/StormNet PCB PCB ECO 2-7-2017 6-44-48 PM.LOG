@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=+5.3 NEOPIX Pin=R14-2
+Change Component Designator: OldDesignator=C4 - Neo A NewDesignator=C4 - NP A
+Change Component Designator: OldDesignator=C5 - Neo B NewDesignator=C5 - NP B
+Change Component Designator: OldDesignator=C6 - Neo C NewDesignator=C6 - NP C
+Change Component Designator: OldDesignator=C7 - Neo D NewDesignator=C7 - NP D
+Change Component Designator: OldDesignator=CON - I2C from RRIO NewDesignator=CON-I2C-IN
+Change Component Designator: OldDesignator=CON - I2C Output NewDesignator=CON-I2C-OUT
+Change Component Designator: OldDesignator=CON-NeoPix A NewDesignator=CON-NP A
+Change Component Designator: OldDesignator=CON - NeoPix Pwr B NewDesignator=CON - NP B
+Change Component Designator: OldDesignator=CON - NeoPix Pwr C NewDesignator=CON - NP C
+Change Component Designator: OldDesignator=CON - NeoPix Pwr D NewDesignator=CON - NP D
+Change Component Designator: OldDesignator=CON-Ring Light 1 NewDesignator=CON-RL 0
+Change Component Designator: OldDesignator=CON-Ring Light 2 NewDesignator=CON-RL 1
+Change Component Designator: OldDesignator=D8 - Y Ring 1 NewDesignator=D8-Y-RL 0
+Change Component Designator: OldDesignator=D9 - Y Ring 2 NewDesignator=D9-Y-RL 1
+Change Component Designator: OldDesignator=FET-RL1 NewDesignator=FET-RL 0
+Change Component Designator: OldDesignator=FET-RL2 NewDesignator=FET-RL 1
+Change Component Designator: OldDesignator=I2C GND Jumper NewDesignator=JMP I2C GND
+Change Component Designator: OldDesignator=NeoPix V-REG-1 NewDesignator=NeoPix V-REG-0
+Change Component Designator: OldDesignator=NeoPix V-REG-2 NewDesignator=NeoPix V-REG-1
+Change Component Designator: OldDesignator=NeoPix V-REG-3 NewDesignator=NeoPix V-REG-2
+Change Component Designator: OldDesignator=NeoPix V-REG-4 NewDesignator=NeoPix V-REG-3
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=R14-2
+Change Net Name : Old Net Name=+5.1 NEOPIX New Net Name=+5.0 NP
+Change Net Name : Old Net Name=+5.2 NEOPIX New Net Name=+5.1 NP
+Change Net Name : Old Net Name=+5.3 NEOPIX New Net Name=+5.2 NP
+Change Net Name : Old Net Name=+5.4 NEOPIX New Net Name=+5.3 NP
+Change Net Name : Old Net Name=NetCON - I2C from RRIO_P$3 New Net Name=NetCON-I2C-IN_P$3
+Change Net Name : Old Net Name=NetCON-Ring Light 1_P$2 New Net Name=NetCON-RL 0_P$2
+Change Net Name : Old Net Name=NetCON-Ring Light 2_P$2 New Net Name=NetCON-RL 1_P$2
+Change Net Name : Old Net Name=NetD8 - Y Ring 1_1 New Net Name=NetD8-Y-RL 0_1
+Change Net Name : Old Net Name=NetD9 - Y Ring 2_1 New Net Name=NetD9-Y-RL 1_1
+Change Net Name : Old Net Name=NetFET-RL1_1 New Net Name=NetFET-RL 0_1
+Change Net Name : Old Net Name=NetFET-RL2_1 New Net Name=NetFET-RL 1_1
+Change Net Name : Old Net Name=RING LIGHT 1 New Net Name=RL 0
+Change Net Name : Old Net Name=RING LIGHT 2 New Net Name=RL 1

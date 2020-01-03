@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=+5.1 NEOPIX Pin=C20-1
+Added Pin To Net: NetName=+5.2 NEOPIX Pin=C22-1
+Added Pin To Net: NetName=+5.3 NEOPIX Pin=C24-1
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=C26-1
+Added Pin To Net: NetName=+5.1 NEOPIX Pin=NeoPix V-REG-1-2
+Added Pin To Net: NetName=+5.2 NEOPIX Pin=NeoPix V-REG-2-2
+Added Pin To Net: NetName=+5.3 NEOPIX Pin=NeoPix V-REG-3-2
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=NeoPix V-REG-4-2

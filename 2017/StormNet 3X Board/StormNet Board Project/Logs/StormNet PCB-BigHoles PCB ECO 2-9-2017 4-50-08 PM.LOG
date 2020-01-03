@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5 LI Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=+5 LI Pin=NeoLI-1-1-VDD
+Removed Pin From Net: NetName=GND Pin=NeoLI-1-3-GND
+Removed Pin From Net: NetName=NEOPIX ONBOARD D Pin=NeoLI-1-4-DIN
+Removed Member From Class: ClassName=Overall Schematic Member=C8
+Removed Member From Class: ClassName=Overall Schematic Member=NeoLI-1

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5 LI Pin=C7-1
+Added Component: Designator=C27(C0805)
+Added Component: Designator=R151(AXIAL-0.3)
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=C7-1
+Added Pin To Net: NetName=+5 LI Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=R151-1
+Added Pin To Net: NetName=NetD8 - GR 9V_1 Pin=D8 - GR 9V-1
+Added Pin To Net: NetName=NetD8 - GR 9V_1 Pin=R151-2
+Added Net: Name=NetD8 - GR 9V_1
+Added Member To Class: ClassName=Overall Schematic Member=Component C27 CAPACITOR, American symbol
+Added Member To Class: ClassName=Overall Schematic Member=Component R151 390

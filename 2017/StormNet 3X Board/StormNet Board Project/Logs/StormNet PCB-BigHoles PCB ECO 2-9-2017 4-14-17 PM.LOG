@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Net10A Fuse_1 Pin=10A Fuse-1
+Removed Pin From Net: NetName=+12 Pin=10A Fuse-2
+Removed Member From Class: ClassName=Overall Schematic Member=10A Fuse
+Added Component: Designator=F1-10A FUSE(FUSE1)
+Added Pin To Net: NetName=Net10A Fuse_1 Pin=F1-10A FUSE-1A
+Added Pin To Net: NetName=+12 Pin=F1-10A FUSE-2A
+Change Net Name : Old Net Name=Net10A Fuse_1 New Net Name=Net12V INPUT_2
+Added Member To Class: ClassName=Overall Schematic Member=Component F1-10A FUSE 10A

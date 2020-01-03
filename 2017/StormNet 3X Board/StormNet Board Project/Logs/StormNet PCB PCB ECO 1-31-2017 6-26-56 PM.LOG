@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetC21_2 Pin=C21-2
+Removed Pin From Net: NetName=NetC21_2 Pin=C22-2
+Removed Pin From Net: NetName=NetC21_2 Pin=C23-2
+Removed Pin From Net: NetName=NetC21_2 Pin=C24-2
+Removed Pin From Net: NetName=NetC21_2 Pin=NeoPix V-REG-2-3
+Removed Pin From Net: NetName=NetC21_2 Pin=NeoPix V-REG-3-3
+Removed Pin From Net: NetName=NetD7 - GR 9V_1 Pin=R14-1
+Removed Pin From Net: NetName=VCC Pin=R14-2
+Change Component Comment : Designator=R14 Old Comment=390 New Comment=330
+Change Component Designator: OldDesignator=D7 - GR 9V NewDesignator=D8 - GR 9V
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Added Component: Designator=C25(C0805)
+Added Component: Designator=C26(C0805)
+Added Component: Designator=D7 - GR Pix D(3.2X1.6X1.1)
+Added Component: Designator=NeoPix V-REG-4(TO220ABN)
+Added Component: Designator=R15(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=+12 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=NetC21_2 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=D7 - GR Pix D-2
+Added Pin To Net: NetName=GND Pin=NeoPix V-REG-2-3
+Added Pin To Net: NetName=GND Pin=NeoPix V-REG-3-3
+Added Pin To Net: NetName=+12 Pin=NeoPix V-REG-4-1
+Added Pin To Net: NetName=NetC21_2 Pin=NeoPix V-REG-4-2
+Added Pin To Net: NetName=GND Pin=NeoPix V-REG-4-3
+Added Pin To Net: NetName=+5.3 NEOPIX Pin=R14-2
+Added Pin To Net: NetName=NetD7 - GR 9V_1 Pin=R14-1
+Added Pin To Net: NetName=VCC Pin=R14-2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=+5.4
+Change Net Name : Old Net Name=NetD7 - GR 9V_1 New Net Name=NetD8 - GR 9V_1
+Added Pin To Net: NetName=NetD7 - GR Pix D_1 Pin=D7 - GR Pix D-1
+Added Pin To Net: NetName=NetD7 - GR Pix D_1 Pin=R14-1
+Added Net: Name=NetD7 - GR Pix D_1
+Added Member To Class: ClassName=Overall Schematic Member=Component C25 Cap Pol3
+Added Member To Class: ClassName=Overall Schematic Member=Component C26 Cap Pol3
+Added Member To Class: ClassName=Overall Schematic Member=Component D7 - GR Pix D NeoPix D Status
+Added Member To Class: ClassName=Overall Schematic Member=Component NeoPix V-REG-4 L7805ABV
+Added Member To Class: ClassName=Overall Schematic Member=Component R17 330

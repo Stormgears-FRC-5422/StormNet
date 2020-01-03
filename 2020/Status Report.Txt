@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:11:04 PM On 12/11/2019
+
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [StormNetGenericNode.CMPcbDoc]
+   Generated File[StormNetGenericNode.TXT]
+   Generated File[StormNetGenericNode.LDP]
+   Generated File[StormNetGenericNode.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:11:05 PM On 12/11/2019

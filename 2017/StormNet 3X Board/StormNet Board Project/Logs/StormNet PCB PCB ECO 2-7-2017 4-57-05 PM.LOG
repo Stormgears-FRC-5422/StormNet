@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5 US Pin=CON - US6-P$1
+Removed Pin From Net: NetName=GND Pin=CON - US6-P$4
+Removed Member From Class: ClassName=Overall Schematic Member=CON - US6

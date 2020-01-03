@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5 LI Pin=C7-1
+Removed Pin From Net: NetName=VCC Pin=R14-2
+Change Component DesignItemId : Designator=C7 Old DesignItemId=C-USC0805 New DesignItemId=Cap Pol1
+Change Component Footprint: Designator=C7 Old Footprint=C0805 New Footprint=RB7.6-15
+Change Component Comment : Designator=C7 Old Comment=CAPACITOR, American symbol New Comment=Cap Pol1
+Added Component: Designator=C27(C0805)
+Added Component: Designator=CON - NeoPix Pwr D(70545-POS2)
+Added Component: Designator=R15(AXIAL-0.3)
+Added Pin To Net: NetName=+5 LI Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=CON - NeoPix Pwr D-P$2
+Added Pin To Net: NetName=+5.3 NEOPIX Pin=R14-2
+Added Pin To Net: NetName=NetD8 - GR 9V_1 Pin=R14-1
+Added Pin To Net: NetName=VCC Pin=R14-2
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=C7-1
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=CON - NeoPix Pwr D-P$1
+Added Net: Name=+5.4 NEOPIX
+Added Member To Class: ClassName=Overall Schematic Member=Component C27 CAPACITOR, American symbol
+Added Member To Class: ClassName=Overall Schematic Member=Component CON - NeoPix Pwr D Molex -C-Grid® / SL Series connector   Wire-to-Board 2.54 mm (0.100") pitch header, 2 positions.
+Added Member To Class: ClassName=Overall Schematic Member=Component R15 390

@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=D3 - Green LED NewDesignator=D3 - GR 12V
+Change Component Designator: OldDesignator=D4 - Green LED NewDesignator=D4 - GR Pix A
+Change Component Designator: OldDesignator=D5 - Green LED NewDesignator=D5 - GR Pix B
+Change Component Designator: OldDesignator=D6 - Green LED NewDesignator=D6 - GR Pix C
+Change Component Designator: OldDesignator=D7 - Green LED NewDesignator=D7 - GR 9V
+Change Net Name : Old Net Name=NetD3 - Green LED_1 New Net Name=NetD3 - GR 12V_1
+Change Net Name : Old Net Name=NetD4 - Green LED_1 New Net Name=NetD4 - GR Pix A_1
+Change Net Name : Old Net Name=NetD5 - Green LED_1 New Net Name=NetD5 - GR Pix B_1
+Change Net Name : Old Net Name=NetD6 - Green LED_1 New Net Name=NetD6 - GR Pix C_1
+Change Net Name : Old Net Name=NetD7 - Green LED_1 New Net Name=NetD7 - GR 9V_1

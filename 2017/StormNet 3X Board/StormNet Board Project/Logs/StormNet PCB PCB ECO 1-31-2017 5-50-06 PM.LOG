@@ -1,0 +1,45 @@
+Added Component: Designator=D3 - Green LED(3.2X1.6X1.1)
+Added Component: Designator=D4 - Green LED(3.2X1.6X1.1)
+Added Component: Designator=D5 - Green LED(3.2X1.6X1.1)
+Added Component: Designator=D6 - Green LED(3.2X1.6X1.1)
+Added Component: Designator=D7 - Green LED(3.2X1.6X1.1)
+Added Component: Designator=R10(AXIAL-0.3)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R12(AXIAL-0.3)
+Added Component: Designator=R13(AXIAL-0.3)
+Added Component: Designator=R14(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=D3 - Green LED-2
+Added Pin To Net: NetName=GND Pin=D4 - Green LED-2
+Added Pin To Net: NetName=GND Pin=D5 - Green LED-2
+Added Pin To Net: NetName=GND Pin=D6 - Green LED-2
+Added Pin To Net: NetName=GND Pin=D7 - Green LED-2
+Added Pin To Net: NetName=+12 Pin=R10-2
+Added Pin To Net: NetName=+5.1 NEOPIX Pin=R11-2
+Added Pin To Net: NetName=+5.2 NEOPIX Pin=R12-2
+Added Pin To Net: NetName=+5.3 NEOPIX Pin=R13-2
+Added Pin To Net: NetName=VCC Pin=R14-2
+Added Pin To Net: NetName=NetD3 - Green LED_1 Pin=D3 - Green LED-1
+Added Pin To Net: NetName=NetD3 - Green LED_1 Pin=R10-1
+Added Net: Name=NetD3 - Green LED_1
+Added Pin To Net: NetName=NetD4 - Green LED_1 Pin=D4 - Green LED-1
+Added Pin To Net: NetName=NetD4 - Green LED_1 Pin=R11-1
+Added Net: Name=NetD4 - Green LED_1
+Added Pin To Net: NetName=NetD5 - Green LED_1 Pin=D5 - Green LED-1
+Added Pin To Net: NetName=NetD5 - Green LED_1 Pin=R12-1
+Added Net: Name=NetD5 - Green LED_1
+Added Pin To Net: NetName=NetD6 - Green LED_1 Pin=D6 - Green LED-1
+Added Pin To Net: NetName=NetD6 - Green LED_1 Pin=R13-1
+Added Net: Name=NetD6 - Green LED_1
+Added Pin To Net: NetName=NetD7 - Green LED_1 Pin=D7 - Green LED-1
+Added Pin To Net: NetName=NetD7 - Green LED_1 Pin=R14-1
+Added Net: Name=NetD7 - Green LED_1
+Added Member To Class: ClassName=Overall Schematic Member=Component D3 - Green LED 12V Status
+Added Member To Class: ClassName=Overall Schematic Member=Component D4 - Green LED NeoPix A Status
+Added Member To Class: ClassName=Overall Schematic Member=Component D5 - Green LED NeoPix B Status
+Added Member To Class: ClassName=Overall Schematic Member=Component D6 - Green LED NeoPix C Status
+Added Member To Class: ClassName=Overall Schematic Member=Component D7 - Green LED 9V PWR Status
+Added Member To Class: ClassName=Overall Schematic Member=Component R10 470
+Added Member To Class: ClassName=Overall Schematic Member=Component R11 330
+Added Member To Class: ClassName=Overall Schematic Member=Component R12 330
+Added Member To Class: ClassName=Overall Schematic Member=Component R13 330
+Added Member To Class: ClassName=Overall Schematic Member=Component R14 390

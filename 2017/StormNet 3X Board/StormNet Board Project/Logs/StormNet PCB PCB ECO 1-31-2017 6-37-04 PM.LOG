@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5 LI Pin=C7-1
+Removed Pin From Net: NetName=NetD8 - GR 9V_1 Pin=R14-1
+Removed Pin From Net: NetName=VCC Pin=R14-2
+Added Component: Designator=C27(C0805)
+Added Component: Designator=R15 - 9v LED(AXIAL-0.3)
+Added Pin To Net: NetName=+5.4 NEOPIX Pin=C7-1
+Added Pin To Net: NetName=+5 LI Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetD7 - GR Pix D_1 Pin=R14-1
+Added Pin To Net: NetName=+5.3 NEOPIX Pin=R14-2
+Added Pin To Net: NetName=NetD8 - GR 9V_1 Pin=R14-1
+Added Pin To Net: NetName=VCC Pin=R14-2
+Added Member To Class: ClassName=Overall Schematic Member=Component C27 CAPACITOR, American symbol
+Added Member To Class: ClassName=Overall Schematic Member=Component R15 - 9v LED 390

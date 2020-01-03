@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5 LI Pin=1 Lighting-J2.4
+Removed Pin From Net: NetName=+5.1 NEOPIX Pin=C4 - Neo A-1
+Removed Pin From Net: NetName=+5.1 NEOPIX Pin=C20-1
+Removed Pin From Net: NetName=+5 LI Pin=C27-1
+Removed Pin From Net: NetName=+5.1 NEOPIX Pin=CON-NeoPix A-P$1
+Removed Pin From Net: NetName=+5 LI Pin=NeoLI-0-1-VDD
+Removed Pin From Net: NetName=+5.1 NEOPIX Pin=NeoPix V-REG-1-2
+Removed Pin From Net: NetName=+5.1 NEOPIX Pin=R11-2
+Added Pin To Net: NetName=+5.1 NEOPIX Pin=1 Lighting-J2.4
+Added Pin To Net: NetName=+5 LI Pin=C4 - Neo A-1
+Added Pin To Net: NetName=+5 LI Pin=C20-1
+Added Pin To Net: NetName=+5.1 NEOPIX Pin=C27-1
+Added Pin To Net: NetName=+5 LI Pin=CON-NeoPix A-P$1
+Added Pin To Net: NetName=+5.1 NEOPIX Pin=NeoLI-0-1-VDD
+Added Pin To Net: NetName=+5 LI Pin=NeoPix V-REG-1-2
+Added Pin To Net: NetName=+5 LI Pin=R11-2
+Change Net Name : Old Net Name=+5.1 NEOPIX New Net Name=+5 LI
+Change Net Name : Old Net Name=+5 LI New Net Name=+5.1 NEOPIX

@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=+5 IR Pin=CON - IR1-P$1
+Removed Pin From Net: NetName=IR1-ANL Pin=CON - IR1-P$2
+Removed Pin From Net: NetName=GND Pin=CON - IR1-P$3
+Removed Pin From Net: NetName=+5 IR Pin=CON - IR2-P$1
+Removed Pin From Net: NetName=IR2-ANL Pin=CON - IR2-P$2
+Removed Pin From Net: NetName=GND Pin=CON - IR2-P$3
+Removed Pin From Net: NetName=+5 IR Pin=CON - IR3-P$1
+Removed Pin From Net: NetName=IR3-ANL Pin=CON - IR3-P$2
+Removed Pin From Net: NetName=GND Pin=CON - IR3-P$3
+Removed Pin From Net: NetName=+5 IR Pin=CON - IR4-P$1
+Removed Pin From Net: NetName=IR4-ANL Pin=CON - IR4-P$2
+Removed Pin From Net: NetName=GND Pin=CON - IR4-P$3
+Removed Pin From Net: NetName=+5 IR Pin=CON - IR5-P$1
+Removed Pin From Net: NetName=IR5-ANL Pin=CON - IR5-P$2
+Removed Pin From Net: NetName=GND Pin=CON - IR5-P$3
+Removed Pin From Net: NetName=+5 IR Pin=CON - IR6-P$1
+Removed Pin From Net: NetName=IR6-ANL Pin=CON - IR6-P$2
+Removed Pin From Net: NetName=GND Pin=CON - IR6-P$3
+Removed Pin From Net: NetName=GND Pin=IRAddr-SW1-1
+Removed Pin From Net: NetName=GND Pin=IRAddr-SW1-2
+Removed Pin From Net: NetName=GND Pin=IRAddr-SW1-3
+Removed Pin From Net: NetName=GND Pin=IRAddr-SW1-4
+Removed Pin From Net: NetName=Net3 InfraRed_J1.8 Pin=IRAddr-SW1-5
+Removed Pin From Net: NetName=Net3 InfraRed_J1.7 Pin=IRAddr-SW1-6
+Removed Pin From Net: NetName=Net3 InfraRed_J1.6 Pin=IRAddr-SW1-7
+Removed Pin From Net: NetName=Net3 InfraRed_J1.5 Pin=IRAddr-SW1-8
+Removed Pin From Net: NetName=+5 IR Pin=R1-1
+Removed Pin From Net: NetName=I2C SCL Pin=R1-2
+Removed Pin From Net: NetName=+5 IR Pin=R2-1
+Removed Pin From Net: NetName=I2C SDA Pin=R2-2
+Removed Member From Class: ClassName=Overall Schematic Member=CON - IR1
+Removed Member From Class: ClassName=Overall Schematic Member=CON - IR2
+Removed Member From Class: ClassName=Overall Schematic Member=CON - IR3
+Removed Member From Class: ClassName=Overall Schematic Member=CON - IR4
+Removed Member From Class: ClassName=Overall Schematic Member=CON - IR5
+Removed Member From Class: ClassName=Overall Schematic Member=CON - IR6
+Added Component: Designator=CON-CY0-DA(70545-POS5)
+Added Component: Designator=CON-CY0-PWR(70545-POS2)
+Added Component: Designator=CON-CY1-DA(70545-POS5)
+Added Component: Designator=CON-CY1-PWR(70545-POS2)
+Added Component: Designator=CON-OM0-R(70545-POS3)
+Added Component: Designator=CON-OM1-R(70545-POS3)
+Added Component: Designator=R18(AXIAL-0.3)
+Added Component: Designator=R19(AXIAL-0.3)
+Added Pin To Net: NetName=+5 IR Pin=CON-CY0-PWR-P$1
+Added Pin To Net: NetName=GND Pin=CON-CY0-PWR-P$2
+Added Pin To Net: NetName=Net3 InfraRed_J1.8 Pin=CON-CY1-DA-P$2
+Added Pin To Net: NetName=Net3 InfraRed_J1.7 Pin=CON-CY1-DA-P$3
+Added Pin To Net: NetName=Net3 InfraRed_J1.6 Pin=CON-CY1-DA-P$4
+Added Pin To Net: NetName=Net3 InfraRed_J1.5 Pin=CON-CY1-DA-P$5
+Added Pin To Net: NetName=+5 IR Pin=CON-CY1-PWR-P$1
+Added Pin To Net: NetName=GND Pin=CON-CY1-PWR-P$2
+Added Pin To Net: NetName=+5 IR Pin=CON-OM0-R-P$1
+Added Pin To Net: NetName=IR1-ANL Pin=CON-OM0-R-P$2
+Added Pin To Net: NetName=GND Pin=CON-OM0-R-P$3
+Added Pin To Net: NetName=+5 IR Pin=CON-OM1-R-P$1
+Added Pin To Net: NetName=IR3-ANL Pin=CON-OM1-R-P$2
+Added Pin To Net: NetName=GND Pin=CON-OM1-R-P$3
+Added Pin To Net: NetName=IR6-ANL Pin=IRAddr-SW1-1
+Added Pin To Net: NetName=IR5-ANL Pin=IRAddr-SW1-2
+Added Pin To Net: NetName=IR4-ANL Pin=IRAddr-SW1-3
+Added Pin To Net: NetName=IR2-ANL Pin=IRAddr-SW1-4
+Added Pin To Net: NetName=GND Pin=IRAddr-SW1-5
+Added Pin To Net: NetName=GND Pin=IRAddr-SW1-6
+Added Pin To Net: NetName=GND Pin=IRAddr-SW1-7
+Added Pin To Net: NetName=GND Pin=IRAddr-SW1-8
+Added Pin To Net: NetName=I2C SCL Pin=R1-1
+Added Pin To Net: NetName=+5 IR Pin=R1-2
+Added Pin To Net: NetName=I2C SDA Pin=R2-1
+Added Pin To Net: NetName=+5 IR Pin=R2-2
+Added Pin To Net: NetName=+5 IR Pin=R18-1
+Added Pin To Net: NetName=IR1-ANL Pin=R18-2
+Added Pin To Net: NetName=+5 IR Pin=R19-1
+Added Pin To Net: NetName=IR3-ANL Pin=R19-2
+Change Net Name : Old Net Name=IR1-ANL New Net Name=OM0-R
+Change Net Name : Old Net Name=IR2-ANL New Net Name=Net3 InfraRed_J2.11
+Change Net Name : Old Net Name=IR3-ANL New Net Name=OM1-R
+Change Net Name : Old Net Name=IR4-ANL New Net Name=Net3 InfraRed_J2.7
+Change Net Name : Old Net Name=IR5-ANL New Net Name=Net3 InfraRed_J2.6
+Change Net Name : Old Net Name=IR6-ANL New Net Name=Net3 InfraRed_J2.5
+Change Net Name : Old Net Name=Net3 InfraRed_J1.5 New Net Name=CY1-O5
+Change Net Name : Old Net Name=Net3 InfraRed_J1.6 New Net Name=CY1-O4
+Change Net Name : Old Net Name=Net3 InfraRed_J1.7 New Net Name=CY1-O3
+Change Net Name : Old Net Name=Net3 InfraRed_J1.8 New Net Name=CY1-O2
+Added Pin To Net: NetName=CY0-O1 Pin=3 InfraRed-J1.15
+Added Pin To Net: NetName=CY0-O1 Pin=CON-CY0-DA-P$1
+Added Net: Name=CY0-O1
+Added Pin To Net: NetName=CY0-O2 Pin=3 InfraRed-J1.14
+Added Pin To Net: NetName=CY0-O2 Pin=CON-CY0-DA-P$2
+Added Net: Name=CY0-O2
+Added Pin To Net: NetName=CY0-O3 Pin=3 InfraRed-J1.13
+Added Pin To Net: NetName=CY0-O3 Pin=CON-CY0-DA-P$3
+Added Net: Name=CY0-O3
+Added Pin To Net: NetName=CY0-O4 Pin=3 InfraRed-J1.12
+Added Pin To Net: NetName=CY0-O4 Pin=CON-CY0-DA-P$4
+Added Net: Name=CY0-O4
+Added Pin To Net: NetName=CY0-O5 Pin=3 InfraRed-J1.11
+Added Pin To Net: NetName=CY0-O5 Pin=CON-CY0-DA-P$5
+Added Net: Name=CY0-O5
+Added Pin To Net: NetName=CY1-O1 Pin=3 InfraRed-J1.10
+Added Pin To Net: NetName=CY1-O1 Pin=CON-CY1-DA-P$1
+Added Net: Name=CY1-O1
+Added Member To Class: ClassName=Overall Schematic Member=Component CON-CY0-DA Molex SL
+Added Member To Class: ClassName=Overall Schematic Member=Component CON-CY0-PWR Molex -C-Grid® / SL Series connector   Wire-to-Board 2.54 mm (0.100") pitch header, 2 positions.
+Added Member To Class: ClassName=Overall Schematic Member=Component CON-CY1-DA Molex SL
+Added Member To Class: ClassName=Overall Schematic Member=Component CON-CY1-PWR Molex -C-Grid® / SL Series connector   Wire-to-Board 2.54 mm (0.100") pitch header, 2 positions.
+Added Member To Class: ClassName=Overall Schematic Member=Component CON-OM0-R Molex -C-Grid® / SL Series connector   Wire-to-Board 2.54 mm (0.100") pitch header, 3 positions.
+Added Member To Class: ClassName=Overall Schematic Member=Component CON-OM1-R Molex -C-Grid® / SL Series connector   Wire-to-Board 2.54 mm (0.100") pitch header, 3 positions.
+Added Member To Class: ClassName=Overall Schematic Member=Component R18 Res1
+Added Member To Class: ClassName=Overall Schematic Member=Component R19 Res1

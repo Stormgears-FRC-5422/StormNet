@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=CON-I2C-OUT-P$5
+Added Pin To Net: NetName=9VLED Pin=1 Lighting-J2.1
+Added Pin To Net: NetName=9VLED Pin=2 Ultrasonic-J2.1
+Added Pin To Net: NetName=9VLED Pin=3 InfraRed-J2.1
+Change Net Name : Old Net Name=9VLED New Net Name=VCC
+Added Pin To Net: NetName=HC GND Pin=CON-I2C-OUT-P$5
+Added Net: Name=HC GND
